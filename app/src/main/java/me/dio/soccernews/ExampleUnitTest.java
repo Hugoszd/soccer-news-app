@@ -1,8 +1,6 @@
 
 package me.dio.soccernews;
 
-import org.junit.Test;
-
 import static org.junit.Assert.*;
 
 /**
